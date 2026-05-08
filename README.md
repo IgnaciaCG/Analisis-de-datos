@@ -5,7 +5,7 @@ Instrucciones (en caso de no clonar el repositorio):
 1) Descargar grd_procesado.parquet
 2) Descargar analisis_grd.ipynb, el cual para el avance 2 contiene el analisis EDA, la estimación estadistica e intervalos de confianza y el modelo de regresión.  
   
-En caso de querer lograr los resultados de cruce de datos, acceder al OneDrive para descargar el resto de datasets (no incluidos en este repo por falta de espacio, peso en los GBs incluso)
+En caso de querer lograr los resultados de cruce de datos, acceder al OneDrive para descargar el resto de datasets (no incluidos en este repo por falta de espacio, peso en los GBs incluso), descomprir .zip y colocarlos todos en el mismo lugar el Jupyter Notebook, para que se carguen correctamente. Se recomienda que una vez cruzados, se utilice el parquet, por rendimiento, espacio en memoria y tiempo.
 
 Fuentes de datos:  
 •	Marmot, M. (2005). Social determinants of health inequalities.  
