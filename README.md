@@ -1,5 +1,6 @@
-Nombre del proyecto: Desigualdades en Hospitalizaciones Complejas
-Integrantes: Juan Pablo Molina, Maria Poddubnaya, María Amalia Díaz, Ignacia Castillo
+<h2>Nombre del proyecto: Desigualdades en Hospitalizaciones Complejas</h2>  
+
+Integrantes: Juan Pablo Molina, Maria Poddubnaya, María Amalia Díaz, Ignacia Castillo  
 Instrucciones (en caso de no clonar el repositorio):
 1) Descargar grd_procesado.parquet
 2) Descargar analisis_grd.ipynb, el cual para el avance 2 contiene el analisis EDA, la estimación estadistica e intervalos de confianza y el modelo de regresión.  
