@@ -23,5 +23,5 @@ INE Estimaciones y proyecciones poblacionales
 https://www.ine.gob.cl/docs/default-source/proyecciones-de-poblacion/cuadros-estadisticos/base-2017/estimaciones-y-proyecciones-2002-2035-comunas.xlsx?sfvrsn=8c87fc3f_3  
 DEIS – MINSAL Dotacion de camas  
 https://repositoriodeis.minsal.cl/ContenidoSitioWeb2020/Estadisticas/DOTACION_CAMAS/Dotación%20de%20camas%202010-2024%20Establecimientos%20Pertenecientes%20al%20SNSS.xlsx  
-Link del repositorio OneDrive con más datasets: https://uddcl-my.sharepoint.com/:f:/g/personal/m_diazs_udd_cl/IgDld2STT0dOQa_qjxP2pSz6ASPqeYys2tqIVIraHyN50RE?e=jUKxHi  
+Link del repositorio OneDrive con más datasets: https://uddcl-my.sharepoint.com/:f:/g/personal/m_diazs_udd_cl/IgDld2STT0dOQa_qjxP2pSz6Ab4FETm3vu3U1yeGMZkyuys?e=euji2R 
 
