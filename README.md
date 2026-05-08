@@ -1,4 +1,4 @@
-<h2>Nombre del proyecto: Desigualdades en Hospitalizaciones Complejas</h2>  
+<h2>Desigualdad en Salud Chilena: un estudio enfocado en las comunas y su acceso a hospitalizaciones complejas</h2>  
 
 Integrantes: Juan Pablo Molina, Maria Poddubnaya, María Amalia Díaz, Ignacia Castillo  
 Instrucciones (en caso de no clonar el repositorio):
