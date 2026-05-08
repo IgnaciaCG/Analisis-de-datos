@@ -1,9 +1,10 @@
 Nombre del proyecto: Desigualdades en Hospitalizaciones Complejas
 Integrantes: Juan Pablo Molina, Maria Poddubnaya, María Amalia Díaz, Ignacia Castillo
-Instrucciones:
-1) Descargar el parquet mas actualizado del repositorio de OneDrive
-2) Descargar el archivo procesamiento_cruce_grd.ipynb y recorrerlo
-3) Descargar analisis_grd.ipynb, el cual para el avance 2 contiene el analisis eda, la estimación estadistica e intervalos de confianza y el modelo de regresión. 
+Instrucciones (en caso de no clonar el repositorio):
+1) Descargar grd_procesado.parquet
+2) Descargar analisis_grd.ipynb, el cual para el avance 2 contiene el analisis EDA, la estimación estadistica e intervalos de confianza y el modelo de regresión.  
+  
+En caso de querer lograr los resultados de cruce de datos, acceder al OneDrive para descargar el resto de datasets (no incluidos en este repo por falta de espacio, peso en los GBs incluso)
 
 Fuentes de datos:  
 •	Marmot, M. (2005). Social determinants of health inequalities.  
